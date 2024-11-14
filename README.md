@@ -1,6 +1,7 @@
 # E-commerce Website UI (HTML & CSS)
 
 ## Description
+
 The "E-commerce Website UI" is a masterfully designed user interface, developed solely using HTML and CSS. This project serves as a visual tour de force of an online e-commerce platform, elegantly presenting multiple sections and design elements. Although the website focuses exclusively on the user interface and lacks client-side interactions, it adeptly captures the essence of a dynamic online shopping experience.
 
 ## Key Features
@@ -38,44 +39,3 @@ The "E-commerce Website UI" is a masterfully designed user interface, developed 
 ## Tech Stack
 
 - **Frontend**: Crafted using HTML and CSS, the project beautifully demonstrates the expressive capabilities of these technologies in designing engaging and responsive user interfaces.
-
-## Getting Started
-
-To view the "E-commerce Website UI" on your local machine, follow these steps:
-
-1. Clone the repository to your local machine:
-```
-git clone https://github.com/codewithmawais/e-commerce-website-html-css.git
-```
-2. Navigate to the project directory:
-```
-cd e-commerce-website-ui
-```
-3. Start the Application
-```
-Open the index.html file.
-Right-click on the file and select "Open with Live Preview."
-This will launch a live preview of the website in your default web browser.
-```
-
-## Project Intent
-
-The "E-commerce Website UI" project is a creative initiative designed to facilitate the learning and refinement of foundational HTML and CSS skills. The static nature of the website offers an excellent opportunity for developers to comprehend design principles, experiment with styling techniques, and adeptly translate visual concepts into code. While interactivity is absent, the project's fidelity to E-commerce Website UI interface provides an accessible avenue to engage with the essence of a digital platform.
-
-## Conclusion
-
-"E-commerce Website UI" underscores the potential of HTML and CSS in creating realistic, visually accurate user interfaces. Through its emulation of E-commerce Website UI, this project empowers aspiring developers to elevate their skills, unravel design intricacies, and lay a solid groundwork for more intricate web development endeavours.
-
-**Note**: Given the educational nature of this project and its lack of client-side interactions, users are encouraged to focus on design exploration and structural understanding while acknowledging the project's absence of functional interactivity.
-
-## License
-
-This project is not licensed.
-
-## Contributions
-
-Contributions are welcome! If you have ideas for improvements or new features, feel free to submit a pull request.
-
-Explore the "E-commerce Website UI" and immerse yourself in its aesthetic allure, envisioning the possibilities of a fully interactive and seamless online shopping journey.
-
-
